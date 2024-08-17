@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\PreliminaryInterviewTest\PreliminaryInterviewTest\bin\Debug\net8.0\PreliminaryInterviewTest.exe
+C:\Users\User\Desktop\PreliminaryInterviewTest\PreliminaryInterviewTest\bin\Debug\net8.0\PreliminaryInterviewTest.deps.json
+C:\Users\User\Desktop\PreliminaryInterviewTest\PreliminaryInterviewTest\bin\Debug\net8.0\PreliminaryInterviewTest.runtimeconfig.json
+C:\Users\User\Desktop\PreliminaryInterviewTest\PreliminaryInterviewTest\bin\Debug\net8.0\PreliminaryInterviewTest.dll
+C:\Users\User\Desktop\PreliminaryInterviewTest\PreliminaryInterviewTest\bin\Debug\net8.0\PreliminaryInterviewTest.pdb
+C:\Users\User\Desktop\PreliminaryInterviewTest\PreliminaryInterviewTest\obj\Debug\net8.0\PreliminaryInterviewTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\PreliminaryInterviewTest\PreliminaryInterviewTest\obj\Debug\net8.0\PreliminaryInterviewTest.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PreliminaryInterviewTest\PreliminaryInterviewTest\obj\Debug\net8.0\PreliminaryInterviewTest.AssemblyInfo.cs
+C:\Users\User\Desktop\PreliminaryInterviewTest\PreliminaryInterviewTest\obj\Debug\net8.0\PreliminaryInterviewTest.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PreliminaryInterviewTest\PreliminaryInterviewTest\obj\Debug\net8.0\PreliminaryInterviewTest.sourcelink.json
+C:\Users\User\Desktop\PreliminaryInterviewTest\PreliminaryInterviewTest\obj\Debug\net8.0\PreliminaryInterviewTest.dll
+C:\Users\User\Desktop\PreliminaryInterviewTest\PreliminaryInterviewTest\obj\Debug\net8.0\refint\PreliminaryInterviewTest.dll
+C:\Users\User\Desktop\PreliminaryInterviewTest\PreliminaryInterviewTest\obj\Debug\net8.0\PreliminaryInterviewTest.pdb
+C:\Users\User\Desktop\PreliminaryInterviewTest\PreliminaryInterviewTest\obj\Debug\net8.0\PreliminaryInterviewTest.genruntimeconfig.cache
+C:\Users\User\Desktop\PreliminaryInterviewTest\PreliminaryInterviewTest\obj\Debug\net8.0\ref\PreliminaryInterviewTest.dll
